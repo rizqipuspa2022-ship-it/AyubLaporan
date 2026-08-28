@@ -1,0 +1,39 @@
+{
+  "core_fields": [
+    "nama_pelatihan",
+    "nama_pelatihan_upper",
+    "akt",
+    "NomorND",
+    "TanggalND",
+    "maksud_program",
+    "diharapkan_mampu",
+    "tgl_mulai",
+    "tgl_selesai",
+    "rencana_peserta",
+    "realisasi_peserta",
+    "unit_asal",
+    "realisasi_laki",
+    "realisasi_perempuan",
+    "S2",
+    "D4_S1",
+    "D3",
+    "no_pengumuman",
+    "peserta_lulus",
+    "mengulang_ujian",
+    "mengulang_pelatihan",
+    "kriteria_idx_evajar_elearning",
+    "indeks_rata2_evajar_elearning",
+    "indeks_kemampuan_mengajar_elearning",
+    "kriteria_idx_evagara_elearning",
+    "indeks_rata2_evagara_elearning",
+    "indeks_materi_pembelajaran_elearning",
+    "indeks_bahan_ajar_elearning",
+    "indeks_metode_pembelajaran_elearning",
+    "indeks_kesigapan_penyelenggara_elearning",
+    "indeks_menu_elearning_mudah_digunakan",
+    "indeks_fasilitas_elearning_dapat_diakses"
+  ],
+  "legacy_mailmerge_fields": [
+    "No","nama_pelatihan","akt","PIC","metode","non_tatap_muka_(mulai)","non_tatap_muka_(selesai)","tatap_muka_(mulai)","tatap_muka_(selesai)","action_learning_(mulai)","action_learning_(selesai)","tgl_mulai","tgl_selesai","asrama","tgl_pengumuman","no_pengumuman","deadline (H+25)","warning","warning_IKU","Nilai_IKU","no_laporan","tgl_laporan","unit_asal","tempat_pelatihan","alamat_tempat","rencana_peserta","realisasi_peserta","tidak_mengikuti","#dgn_ket","#tanpa_ket","ket_abstain","rencana_laki","rencana_perempuan","realisasi_laki","realisasi_perempuan","S3","S2","D4_S1","D3","D1","SMA_sederajat","Unknown_School","Jenis_Ujian","peserta_ujian","peserta_lulus","tidak_lulus","ket_tidak_lulus","tidak_memenuhi_syarat","ket_tidak_memenuhi_syarat","Min_Kompre_Pretest","Max_Kompre_Pretest","Rata2_Kompre_Pretest","Min_NA_Posttest","Max_NA_Posttest","Rata2_NA_Posttest","Selisih_Pretest_Posttest","predikat_A","predikat_B","predikat_C","lulus_min_B","persen_kelulusan_minB","indeks_materi_pembelajaran_elearning","indeks_bahan_ajar_elearning","indeks_metode_pembelajaran_elearning","indeks_kesigapan_penyelenggara_elearning","indeks_menu_elearning_mudah_digunakan","indeks_fasilitas_elearning_dapat_diakses","indeks_rata2_evagara_elearning","kriteria_idx_evagara_elearning","indeks_kemampuan_mengajar_elearning","indeks_rata2_evajar_elearning","kriteria_idx_evajar_elearning","indeks_materi_pembelajaran_PJJ","indeks_bahan_ajar_PJJ","indeks_metode_pembelajaran_PJJ","indeks_waktu_penyelenggaraan_PJJ","indeks_kesigapan_penyelenggara_PJJ","indeks_waktu_ujian_PJJ","indeks_fasilitas_PJJ_mudah_diakses","indeks_fasilitas_PJJ_mudah_digunakan","indeks_rata2_evagara_PJJ","kriteria_idx_evagara_PJJ","indeks_kemampuan_mengajar","indeks_rata2_evajar","kriteria_idx_evajar","indeks_materi_pembelajaran_klasikal","indeks_bahan_ajar_klasikal","indeks_metode_pembelajaran_klasikal","indeks_kesigapan_penyelenggara_klasikal","indeks_konsumsi","indeks_ruang_kelas","indeks_asrama","indeks_rata2_evagara_klasikal","kriteria_idx_evagara_klasikal","indeks_pengetahuan_pengajar_klasikal","indeks_kemampuan_mengajar_klasikal","indeks_rata2_evajar_klasikal","kriteria_idx_evajar_klasikal","nama_pelatihan_upper","maksud_program","diharapkan_mampu","rec_pengajar","rec_renbang","rec_penye","rec_evalap","rec_tu","rec_penyelenggaraan_pelatihan","nama_pelatihan_lengkap","END","DS","Unggah_MsTeams","Keterangan","NomorND","TanggalND"
+  ]
+}
